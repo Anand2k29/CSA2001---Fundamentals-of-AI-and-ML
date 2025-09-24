@@ -72,13 +72,13 @@ Output
 
 ## Output
 
-![simulation result](images/WhatsApp Image 2025-09-24 at 20.37.40_c1037cb1.jpg)
+![Simulation Result](images/simulation-result.jpg)
 
-![A* Algorithm Result](images/WhatsApp Image 2025-09-24 at 20.08.40_d6d40523.jpg)
+![A* Algorithm Result](images/a-star-result.jpg)
 
-![ucs Algorithm Result](images/WhatsApp Image 2025-09-24 at 20.08.14_1e8f14d2.jpg)
+![UCS Algorithm Result](images/ucs-result.jpg)
 
-![Small map](images/WhatsApp Image 2025-09-24 at 20.09.15_233cfd9a.jpg)
+![Small Map Result](images/small-map-result.jpg)
 
 
 =======
